@@ -42,11 +42,16 @@ const Navbar = class extends React.Component {
         <div className="container flex-around">
           <div className="navbar-brand logo">
             <Link to="/" className="navbar-item" title="Logo">
+ 
+  <img 
+      src="mylogo.png" 
+      style="height:100%;">
+</a>
 
                   <img
                     src={logo}
                     alt="LOGO"
-                    style={{ width:'auto', height: '100%' }}
+                    style= "height: 100%;"
                   />
 
                 </Link>
