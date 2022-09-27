@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Alex Murphy
-image: /img/home-jumbotron.jpg
+title: Stecchino
+image: /img/chemex.jpg
 heading: Stecchino
 subheading: Una guida per conoscere le nuove opportunità
 mainpitch:
