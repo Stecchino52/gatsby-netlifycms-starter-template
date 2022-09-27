@@ -52,7 +52,7 @@ const Navbar = class extends React.Component {
 
                 </Link>
 
-              <GitHubButton href="https://github.com/simarmannsingh">Follow</GitHubButton>
+              
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
