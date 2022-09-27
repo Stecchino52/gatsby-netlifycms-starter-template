@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import GitHubButton from 'react-github-btn'
-import logo from '../img/logo.svg'
+import logo from '../img/Stecchino (1).png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -46,7 +46,7 @@ const Navbar = class extends React.Component {
                   <img
                     src={logo}
                     alt="LOGO"
-                    style= {{width:'auto', height:'auto'}}
+                    style= {{width:'70px', height:'70px'}}
                   />
 
                 </Link>
