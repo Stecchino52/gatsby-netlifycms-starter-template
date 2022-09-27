@@ -46,7 +46,7 @@ const Navbar = class extends React.Component {
                   <img
                     src={logo}
                     alt="LOGO"
-                    height={100}
+                    sizes="32x32"
                     
                   />
 
