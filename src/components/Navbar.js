@@ -42,7 +42,6 @@ const Navbar = class extends React.Component {
         <div className="container flex-around">
           <div className="navbar-brand logo">
             <Link to="/" className="navbar-item" title="Logo">
-              <h1>Stecchino | Logo</h1>
 
                   <img
                     src={logo}
