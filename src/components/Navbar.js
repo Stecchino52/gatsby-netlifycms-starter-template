@@ -40,7 +40,7 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container flex-around">
-          <div className="navbar-brand logo">
+          <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
  
                   <img
