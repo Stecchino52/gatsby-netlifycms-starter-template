@@ -40,16 +40,10 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container flex-around">
-          <div className="navbar-brand">
+          <div className="navbar-brand logo">
             <Link to="/" className="navbar-item" title="Logo">
- 
-                  <img
-                    src={logo}
-                    alt="LOGO"
-                    style={{width:100, height:100, marginTop: -7}}
-                  />
-
-                </Link>
+               <h1> Stecchino </h1>
+                  </Link>
 
               
             {/* Hamburger menu */}
